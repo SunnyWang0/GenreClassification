@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project introduces an innovative approach to music genre classification by leveraging Convolutional Neural Networks (CNNs). Our method uniquely combines Melspectrograms and Short-Time Fourier Transform (STFT) spectrograms as joint data inputs. This approach aims to significantly enhance classification accuracy in music genre identification.
+This project introduces an innovative approach to music genre classification by leveraging Convolutional Neural Networks (CNNs). Our method uniquely combines Melspectrograms and Short-Time Fourier Transform (STFT) spectrograms as joint data inputs. This approach aims to significantly enhance classification accuracy in music genre identification. 
+
+See the paper for a more detailed analysis of the model.
 
 ## Key Features
 
